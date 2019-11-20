@@ -1,0 +1,15 @@
+{
+    "name": "meom/meom-eml-fix",
+    "description": "Fix Enhanced media library error that causes problems with image uploads in WP 5.3.",
+    "homepage": "https://www.meom.fi",
+    "keywords": ["wordpress", "plugin"],
+    "license": "GPLv2 (or later)",
+    "type": "wordpress-plugin",
+    "version": "1.0.0",
+    "authors": [
+      {
+        "name": "MEOM Oy",
+        "email": "tech@meom.fi"
+      }
+    ]
+  }
