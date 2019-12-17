@@ -3,7 +3,7 @@
  * Plugin Name: MEOM Enhanced media library Fix
  * Plugin Uri: https://github.com/MEOM/meom-eml-fix
  * Description: Fix Enhanced media library error that causes problems with image uploads in WP 5.3
- * Version: 1.0.0
+ * Version: 1.1.0
  * Author: MEOM
  * Author URI: https://www.meom.fi
  *
@@ -11,7 +11,7 @@
  */
 
 if ( ! defined( 'MEOM_EML_VERSION' ) ) {
-	define( 'MEOM_EML_VERSION', '1.0.0' );
+	define( 'MEOM_EML_VERSION', '1.1.0' );
 }
 
 /**
